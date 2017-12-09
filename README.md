@@ -2,7 +2,7 @@
 first repository 
 <!DOCTYPE html>
 <html>
-  <p>hello world</p>
-  <p1>hi</p1>
-  <p2>everyone</p2>
+  <h1>hello world</h1>
+  <h2>hi</h2>
+  <h3>everyone</h3>
 </html>
